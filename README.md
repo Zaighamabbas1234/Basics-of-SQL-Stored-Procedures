@@ -1,4 +1,4 @@
-# Basics of SQL Statements & Indexes:
+# Basics of SQL: Stored Procedures:
 A practical collection of SQL examples and exercises covering fundamental SQL statements, database operations, filtering, sorting, aggregation, joins and database indexes.
 This repository is designed to demonstrate my understanding of SQL fundamentals and relational database concepts through practical examples.
 
