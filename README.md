@@ -32,7 +32,7 @@ The main focus areas include:
 3. SELECT Statement.
 4. WHERE Clause.
 5. UPDATE Statement.
-6. 6. DELETE Statement.
+6. DELETE Statement.
 7. ORDER BY.
 8. Aggregate Functions.
 9. GROUP BY and HAVING.
