@@ -5,44 +5,44 @@ This repository is designed to demonstrate my understanding of SQL fundamentals 
 # Overview:
 SQL (Structured Query Language) is used to communicate with and manage relational databases. This repository contains examples of commonly used SQL statements and indexing techniques.
 The main focus areas include:
-* SQL Database & Table Creation
-* Data Definition Language (DDL)
-* Data Manipulation Language (DML)
-* Data Query Language (DQL)
-* Data Control Language (DCL)
-* Transaction Control Language (TCL)
-* Filtering and Sorting Data
-* Aggregate Functions
-* GROUP BY and HAVING
-* SQL Joins
-* Subqueries
-* Constraints
-* Primary and Foreign Keys
-* SQL Indexes
-* Practical SQL Queries
+* SQL Database & Table Creation.
+* Data Definition Language (DDL).
+* Data Manipulation Language (DML).
+* Data Query Language (DQL).
+* Data Control Language (DCL).
+* Transaction Control Language (TCL).
+* Filtering and Sorting Data.
+* Aggregate Functions.
+* GROUP BY and HAVING.
+* SQL Joins.
+* Subqueries.
+* Constraints.
+* Primary and Foreign Keys.
+* SQL Indexes.
+* Practical SQL Queries.
 
 # Technologies used:
-* SQL
+* SQL.
 * MySQL
-* MySQL Workbench
+* MySQL Workbench.
 
 # SQL Topics Covered:
-1. Database and Table Creation
-2. INSERT Statement
-3. SELECT Statement
-4. WHERE Clause
-5. UPDATE Statement
-6. DELETE Statement
-7. ORDER BY
-8. Aggregate Functions
-9. GROUP BY and HAVING
-10. SQL Joins
-11. SQL Indexes
-12. Creating an Index
-13. Creating a Unique Index
-14. Viewing Indexes
-15. Dropping an Index
-16. Learning Objectives
+1. Database and Table Creation.
+2. INSERT Statement.
+3. SELECT Statement.
+4. WHERE Clause.
+5. UPDATE Statement.
+6. 6. DELETE Statement.
+7. ORDER BY.
+8. Aggregate Functions.
+9. GROUP BY and HAVING.
+10. SQL Joins.
+11. SQL Indexes.
+12. Creating an Index.
+13. Creating a Unique Index.
+14. Viewing Indexes.
+15. Dropping an Index.
+16. Learning Objectives.
 
 If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
 ---
